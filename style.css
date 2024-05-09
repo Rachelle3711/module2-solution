@@ -20,7 +20,7 @@ h1{
 }
 
 #sole{
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     width:95%;
     height: 200px;
@@ -31,7 +31,7 @@ h1{
     position: relative;
 }
 #Table{
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     width: 95%;
     height: 200px;
@@ -42,7 +42,7 @@ h1{
  position: relative;
 }
 #Matt{
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     width:95%;
     height: 200px;
